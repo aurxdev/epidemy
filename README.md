@@ -6,6 +6,7 @@ Ce projet simule l'évolution d'une épidémie en fonction de différents modèl
 - modele.py : Contient la classe Modele pour le modèle épidémiologique.
 - vue.py : Contient la classe Vue pour l'interface utilisateur (optionnelle).
 - Bibliothèque matplotlib pour la génération de graphiques.
+
 ## Fonctionnement :
 ```bash
 python start.py [MODÈLE] [NB_LIGNES] [NB_COLONNES] [MODE]

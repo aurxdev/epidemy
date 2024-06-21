@@ -2,6 +2,8 @@
 
 Ce projet simule l'évolution d'une épidémie en fonction de différents modèles épidémiologiques.
 
+![Capture vidéo de la simulation](images/animation.gif)
+
 ### Fichiers :
 - modele.py : Contient la classe Modele pour le modèle épidémiologique.
 - vue.py : Contient la classe Vue pour l'interface utilisateur (optionnelle).
